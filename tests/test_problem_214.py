@@ -1,4 +1,4 @@
-from leetcode.shortest_palindrome import Solution
+from leetcode.problem_214 import Solution
 
 
 class TestSolution:
